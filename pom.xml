@@ -44,6 +44,6 @@
     </build>
 <scm>
     <developerConnection>scm:git:git@github.com:iamsrijon/pet-repo.git</developerConnection>
-  <tag>pet-clinic-0.0.1</tag>
+
   </scm>
 </project>
